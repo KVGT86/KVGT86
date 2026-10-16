@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering, put into practice.</title>
+  <desc id="desc">A blue notebook cover with a simple page and circuit motif.</desc>
+  <rect width="1200" height="320" rx="12" fill="#eaf2fb"/>
+  <path d="M920 0h280v320H920z" fill="#dbe9f8"/>
+  <g fill="#183b61" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">
+    <text x="56" y="130">Engineering,</text>
+    <text x="56" y="201">put into practice.</text>
+  </g>
+  <g fill="none" stroke="#376b9d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M878 70h140l45 45v137H878z" fill="#f8fbff"/>
+    <path d="M1018 70v45h45M907 105h38M907 134h69"/>
+    <path d="M911 207h28v-43h50v63h44"/>
+    <circle cx="911" cy="207" r="5" fill="#f8fbff"/>
+    <circle cx="1033" cy="227" r="5" fill="#f8fbff"/>
+    <path d="M856 94h-12v184h157v-12"/>
+  </g>
+</svg>
